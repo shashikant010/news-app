@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katherine Dillinger",
+            "title": "Global cancer cases will jump 77% by 2050, WHO report estimates - CNN",
+            "description": "Global cancer diagnoses will reach 35 million in 2050, according to new estimates from the World Health Organization – an increase of 77% from the 20 million cases diagnosed in 2022.",
+            "url": "https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230726180528-01-world-health-organization-hq-081720.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T23:17:00Z",
+            "content": "Global cancer diagnoses will reach 35 million in 2050, according to new estimates from the World Health Organization an increase of 77% from the 20 million cases diagnosed in 2022.\r\nThe data, release… [+3560 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SEUNG MIN KIM",
+            "title": "Hand over heart, Biden joins grieving families of US troops killed in Jordan as remains arrive home - The Associated Press",
+            "description": "President Joe Biden and first lady Jill Biden joined grieving families at Dover Air Force Base for the dignified transfer of the three American service members killed in a drone attack in Jordan last weekend. During the 15-minute transfer, the president stood…",
+            "url": "https://apnews.com/article/joe-biden-dignified-transfer-jordan-israel-hamas-war-c4b923a6a5178ecd3d3957d7aba7ff6f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/8ea4863/2147483647/strip/true/crop/4176x2349+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2b%2F1a%2Faaaa929d362784dfbf88e7829a86%2Fb67c3a04cc1c4d05ae3f350e2cdd768d",
+            "publishedAt": "2024-02-02T23:13:00Z",
+            "content": "DOVER AIR FORCE BASE, Del. (AP) Standing solemnly under gray skies, President Joe Biden and first lady Jill Biden joined grieving families at Dover Air Force Base on Friday to witness the return of t… [+7141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Tyson Fury postpones heavyweight unification fight vs. Oleksandr Usyk after sustaining severe cut sparring - Yahoo Sports",
+            "description": null,
+            "url": "https://sports.yahoo.com/tyson-fury-postpones-heavyweight-unification-fight-vs-oleksandr-usyk-after-sustaining-severe-cut-sparring-220424349.html",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T22:55:42Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "John Hudson",
+            "title": "Ukraine informs U.S. about decision to fire top general - The Washington Post",
+            "description": "White House officials did not endorse or object to the planned ouster of Gen. Valery Zaluzhny, saying it’s President Volodymyr Zelensky’s choice to make.",
+            "url": "https://www.washingtonpost.com/national-security/2024/02/02/zaluzhny-zelensky-white-house/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EYAKRMFXPA5V3BG3A6BGILIJ2A.JPG&w=1440",
+            "publishedAt": "2024-02-02T22:47:00Z",
+            "content": "The government of Ukraine has informed the White House that President Volodymyr Zelensky has decided to fire his top military commander, Gen. Valery Zaluzhny, in what would be the most consequential … [+5478 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn  Polantz, Holmes Lybrand, Hannah Rabinowitz, Devan Cole",
+            "title": "Federal judge postpones trial in Trump’s DC election interference case - CNN",
+            "description": "The trial date in Washington, DC, in the election subversion case against former President Donald Trump has been postponed, according to a new court order in the case.",
+            "url": "https://www.cnn.com/2024/02/02/politics/trump-trial-date-postponed/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/h-16154439.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T22:45:00Z",
+            "content": "The Washington, DC, trial date in the federal election subversion case against former President Donald Trump has been postponed because of ongoing appeals about the power of the presidency, according… [+3305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Stephen Council",
+            "title": "Apple employees outnumbered customers at Vision Pro launch in SF's Union Square - SFGATE",
+            "description": "Apple’s new Vision Pro headset drew a sparse but eager crowd to San Francisco’s Union Square on Friday, for pickups and demos.",
+            "url": "https://www.sfgate.com/tech/article/apple-vision-pro-sf-union-square-launch-crowd-18644828.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/36/12/03/24682749/3/rawImage.jpg",
+            "publishedAt": "2024-02-02T22:24:19Z",
+            "content": "Apples first new product launch in seven years brought a shockingly small but still eager contingent of techies to its Union Square store on Friday to check out the $3,499 Vision Pro headset.\r\nA far … [+5881 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "From CNN's Alicia Wallace, Elisabeth Buchwald, Bryan Mena and Nicole Goodkind",
+            "title": "Another shockingly good jobs report shows America's economy is booming - CNN",
+            "description": "The US economy added a whopping 353,000 jobs last month, far more than the 176,500 jobs expected. It's yet another data point that underlines the country's economic strength, even in the face of 11 rate hikes from the Federal Reserve.",
+            "url": "https://www.cnn.com/business/live-news/jobs-report-january-02-02-24/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230428162245-nyse-0426-super-tease.jpg",
+            "publishedAt": "2024-02-02T22:20:00Z",
+            "content": "While the leisure and hospitality industry added a mere 11,000 jobs in January, the critical service sector registered its 36th consecutive month of job gains. Post-pandemic, services businesses have… [+1215 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Blayne Alexander, Zoë Richards, Rebecca Shabad, Charlie Gile, Kyla Guilfoil",
+            "title": "Fulton County DA Fani Willis acknowledges personal relationship with the special prosecutor in Trump election case - NBC News",
+            "description": "Fulton County District Attorney Fani Willis acknowledged a personal relationship with special prosecutor Nathan Wade as former President Donald Trump and other co-defendants have sought to get them disqualified from the election interference case.",
+            "url": "https://www.nbcnews.com/politics/justice-department/fulton-county-da-fani-willis-acknowledges-personal-relationship-specia-rcna136871",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240201-fani-willis-trump-investigations-05163e.jpg",
+            "publishedAt": "2024-02-02T22:10:40Z",
+            "content": "Fulton County District Attorney Fani Willis on Friday acknowledged having a personal relationship with special prosecutor Nathan Wade as former President Donald Trump and another co-defendant have so… [+6353 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "Gazans fear Israeli attack on their last refuge; US launches retaliatory strikes - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/israel-turns-focus-gaza-attack-rafah-hamas-weighs-ceasefire-proposal-2024-02-01/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T22:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Target pulls Black History Month book that misidentified 3 civil rights icons - NPR",
+            "description": "The magnet book mixed up W.E.B. Du Bois, Booker T. Washington and Carter G. Woodson. Target said it will no longer sell the book in stores or online and that it notified the publisher of the errors.",
+            "url": "https://www.npr.org/2024/02/02/1228690068/target-black-history-month-book-civil-rights-icons-errors",
+            "urlToImage": "https://media.npr.org/assets/img/2024/02/02/ap24015155336118_wide-fe1a5877b0bf35b4643b55b782db2e598799203c-s1400-c100.jpg",
+            "publishedAt": "2024-02-02T22:08:14Z",
+            "content": "A lone shopper heads into a Target store on Jan. 11 in Lakewood, Colo.\r\nDavid Zalubowski/AP\r\nTarget says it has pulled a book from its Black History Month collection after a customer noticed it misla… [+1978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "SEC, Big Ten 'advisory group' stands as coded threat to NCAA: Figure it out, or we'll go off ourselves - CBS Sports",
+            "description": "The power conference may well reshape college athletics in their image",
+            "url": "https://www.cbssports.com/college-football/news/sec-big-ten-advisory-group-stands-as-coded-threat-to-ncaa-figure-it-out-or-well-go-off-ourselves/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/02/9cd7b35c-374e-4d0d-ba4d-e4232d4c22c2/thumbnail/1200x675/1133c54f1b0b8da8e5dfe5778cc2ad87/tony-petitti.jpg",
+            "publishedAt": "2024-02-02T22:04:33Z",
+            "content": "The SEC and Big Ten delivered a coded, read-between-the-lines message to college athletics in a 259-word release on Friday: We got this. \r\nEssentially, the two most powerful conferences on the planet… [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "I Tried Google Bard's New AI Image Generator. Here's How It Turned Out - CNET",
+            "description": "Google's generative AI tool responds well to generic queries in my trial run — and has fairly robust guardrails in place.",
+            "url": "https://www.cnet.com/tech/i-tried-google-bards-new-ai-image-generator-heres-how-it-turned-out/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/150965e853cdf13d2dad48d228c1e581e0c3b59a/hub/2024/02/02/d17b47c7-c8ab-40db-8af1-4de578fea6e0/bard-declaration-of-independence.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-02-02T22:00:00Z",
+            "content": "With its first birthday right around the corner, Google's conversational AI tool Bard is getting another upgrade.\r\nEarly reviews found Bard lagged behind competing chatbots in part because its respon… [+3818 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aria Alamalhodaei",
+            "title": "Secretive moon startup led by ex-Blue Origin leaders raises new tranche of funding - TechCrunch",
+            "description": "A stealth startup led by ex-Blue Origin leaders, focused on harvesting resources from the moon, has quietly closed a sizable new tranche of funding,",
+            "url": "https://techcrunch.com/2024/02/02/secretive-moon-startup-led-by-ex-blue-origin-leaders-raises-new-tranche-of-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241324699.jpg?resize=1200,800",
+            "publishedAt": "2024-02-02T21:46:05Z",
+            "content": "A stealth startup led by ex-Blue Origin leaders, focused on harvesting resources from the moon, has quietly closed a sizable new tranche of funding, according to regulatory documents.\r\nInterlune, a s… [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Paige Gawley",
+            "title": "Sam Waterston Leaving 'Law & Order' After More Than 400 Episodes -- Find Out His Famous Replacement - Entertainment Tonight",
+            "description": "The actor's famous replacement has also been revealed.",
+            "url": "https://www.etonline.com/sam-waterston-leaving-law-order-after-more-than-400-episodes-find-out-his-famous-replacement-219095",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-02/waterson.jpg?h=c673cd1c",
+            "publishedAt": "2024-02-02T21:12:21Z",
+            "content": "Sam Waterston is saying goodbye to Law &amp; Order. On Friday, ET confirmed that the actor will depart the long-running series after playing District Attorney Jack McCoy for more than 400 episodes. H… [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami",
+            "title": "Meta's Zuckerberg sees $28 billion windfall after shares rocket - CNBC",
+            "description": "Meta CEO Mark Zuckerberg's net worth is now $165 billion, making him richer than Microsoft founder Bill Gates.",
+            "url": "https://www.cnbc.com/2024/02/02/mark-zuckerberg-net-worth-28-billion-windfall-after-shares-surge.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106967433-16354594262021-10-28t214512z_1395970580_rc29jq92n95e_rtrmadp_0_facebook-connect.jpeg?v=1706909883&w=1920&h=1080",
+            "publishedAt": "2024-02-02T21:04:36Z",
+            "content": "Meta CEO and co-founder Mark Zuckerberg has 28 billion reasons to celebrate the company's gangbuster quarter.\r\nAs of Friday's close, Zuckerberg is the richest he has ever been, thanks to a 22% surge … [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson, Lauren del Valle",
+            "title": "Mother of Michigan school shooter admits she and husband gifted their son the gun used in the attack - CNN",
+            "description": "Jennifer Crumbley, the mother of the teenager who killed four people at a Michigan high school in 2021, admitted under cross-examination at her manslaughter trial that she and her husband gifted their son the firearm later used in the attack.",
+            "url": "https://www.cnn.com/2024/02/02/us/jennifer-crumbley-michigan-school-shooter-trial/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240201180525-jennifer-crumbley-trial-02012024.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T20:25:00Z",
+            "content": "Jennifer Crumbley, the mother of the teenagerwho killed four people at a Michigan high school in 2021, admitted under cross-examination at her manslaughter trial that she and her husband gifted their… [+7120 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Rare ancient tree discovery has scientists ‘gobsmacked’ - CNN",
+            "description": "Unusual trees found fossilized in Canada were buried alive 350 million years ago. Scientists say the discovery opens a new window into the history of life on Earth.",
+            "url": "https://www.cnn.com/2024/02/02/world/sanfordiacaulis-ancient-tree-fossils-discovery-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sanfordiacaulis-densifolia-scale-is-1-m-credit-matthew-stimson.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-02T20:24:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nTrees are believed to have originated hundreds of mill… [+6050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Brianna Ghey's killers given life sentences for brutal murder - BBC.com",
+            "description": "Scarlett Jenkinson had a \"deep desire to kill\" and Eddie Ratcliffe was partly driven by his transphobia.",
+            "url": "https://www.bbc.com/news/uk-england-manchester-68184224",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16FB/production/_131838850_725c30ed2061fd4ccc2f3663d4c2269f8bba5aa4.jpg",
+            "publishedAt": "2024-02-02T20:07:00Z",
+            "content": "By Lauren Hirst, Judith Moritz &amp; Rachael LazaroBBC News\r\nBrianna Ghey was stabbed 28 times in Culcheth Linear Park in Cheshire\r\nBrianna Ghey's killers have been given life sentences for her \"brut… [+9362 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "KEN RITTER",
+            "title": "Taylor Swift could make it from Tokyo to the Super Bowl. Parking her private jet could be tricky - The Associated Press",
+            "description": "If Taylor Swift jets from her upcoming concert in Tokyo to Las Vegas to see boyfriend Travis Kelce play in the Super Bowl, she’d better have a place to park her plane. Harry Reid International Airport and the FAA say the 475 parking spots for aircraft parking…",
+            "url": "https://apnews.com/article/super-bowl-taylor-swift-aircraft-parking-vegas-ab346952d6ecd411cfedb06387c8ddbd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0822669/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F7f%2Fdfa63d67119e3494efde12180ad1%2F0bba4daba88642e497ca0697277b0efe",
+            "publishedAt": "2024-02-02T19:59:00Z",
+            "content": "LAS VEGAS (AP) If Taylor Swift is jetting from her upcoming Tokyo concert to Las Vegas to see boyfriend Travis Kelce play in the Super Bowl the next day, shed better already have a place to park her … [+5299 chars]"
+        }
+    ]
+}
