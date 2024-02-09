@@ -8,20 +8,21 @@ import {
 export default class App extends Component {
   c="class based component app";
   render() {
+    let pagesize=5;
     return (
       <div>
         <HashRouter>
           <Navbar/>
           <Routes>
-          {/* <Route path='' key="home" element={<News pagesize={5} category={"general"}/>}/> */}
-                 <Route  path='/' element={<News key="general" pagesize={5} category={"general"}/>}/>
-                 <Route  path='/business' element={<News key="business" pagesize={5} category={"business"}/>}/>
-                 <Route  path='/entertainment' element={<News key="entertainment" pagesize={5} category={"entertainment"}/>}/>
-                 <Route  path='/general' element={<News key="general" pagesize={5} category={"general"}/>}/>
-                 <Route  path='/health' element={<News key="health" pagesize={5} category={"health"}/>}/>
-                 <Route  path='/science' element={<News key="sc" pagesize={5} category={"science"}/>}/>
-                 <Route  path='/sports' element={<News key="s" pagesize={5} category={"sports"}/>}/>
-                 <Route  path='/technology' element={<News key="t" pagesize={5} category={"technology"}/>}/>
+          {/* <Route path='' key="home" element={<News pagesize={pagesize} category={"general"}/>}/> */}
+                 <Route  path='/' element={<News key="home" pagesize={pagesize} category={"general"}/>}/>
+                 <Route  path='/business' element={<News key="business" pagesize={pagesize} category={"business"}/>}/>
+                 <Route  path='/entertainment' element={<News key="entertainment" pagesize={pagesize} category={"entertainment"}/>}/>
+                 <Route  path='/general' element={<News key="general" pagesize={pagesize} category={"general"}/>}/>
+                 <Route  path='/health' element={<News key="health" pagesize={pagesize} category={"health"}/>}/>
+                 <Route  path='/science' element={<News key="sc" pagesize={pagesize} category={"science"}/>}/>
+                 <Route  path='/sports' element={<News key="s" pagesize={pagesize} category={"sports"}/>}/>
+                 <Route  path='/technology' element={<News key="t" pagesize={pagesize} category={"technology"}/>}/>
         </Routes>
         </HashRouter>
       </div>
