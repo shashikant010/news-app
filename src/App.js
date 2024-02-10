@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from './components/navbar.js';
 import News from './components/News.js';
+import LoadingBar from 'react-top-loading-bar'
 import {
   HashRouter, Routes, Route
 } from "react-router-dom";
@@ -8,7 +9,7 @@ import {
 export default class App extends Component {
   c="class based component app";
   render() {
-    let pagesize=5;
+    let pagesize=15;
     return (
       <div>
         <HashRouter>
